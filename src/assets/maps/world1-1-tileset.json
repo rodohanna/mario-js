@@ -1,0 +1,14 @@
+{ "columns":33,
+ "image":"..\/sprites\/tiles.png",
+ "imageheight":448,
+ "imagewidth":528,
+ "margin":0,
+ "name":"world1-1-tileset",
+ "spacing":0,
+ "tilecount":924,
+ "tiledversion":"1.4.2",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":1.4
+}
